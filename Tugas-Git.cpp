@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Add to git");
+    printf("edit on git");
 
     return 0;
 }
